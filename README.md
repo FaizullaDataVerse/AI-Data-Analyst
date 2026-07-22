@@ -124,29 +124,16 @@ Ask questions such as:
 
 ### Dashboard
 
-> Add a screenshot here
 
-```
-screenshots/dashboard.png
-```
 
 ### Executive Report
 
-> Add a screenshot here
 
-```
-screenshots/report.png
-```
 
 ### KPI Dashboard
 
-> Add a screenshot here
 
-```
-screenshots/kpi.png
-```
 
----
 
 ## ⚙️ Installation
 
@@ -167,7 +154,7 @@ pip install -r requirements.txt
 Create a `.env` file
 
 ```env
-MISTRAL_API_KEY=YOUR_API_KEY
+MISTRAL_API_KEY="ACDRTocW3fAOX6PBU2Mae8g517gaOVLf"
 ```
 
 Run the application
@@ -185,7 +172,7 @@ This application can be deployed on **Streamlit Community Cloud**.
 Add the following secret:
 
 ```toml
-MISTRAL_API_KEY="YOUR_API_KEY"
+MISTRAL_API_KEY="ACDRTocW3fAOX6PBU2Mae8g517gaOVLf"
 ```
 
 ---
@@ -223,7 +210,7 @@ MISTRAL_API_KEY="YOUR_API_KEY"
 **Faijulla Shabbir Alas**
 
 - GitHub: https://github.com/FaizullaDataVerse
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: 
 
 ---
 
