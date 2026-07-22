@@ -8,3 +8,4 @@ langchain-core
 langchain-community
 mistralai
 python-dotenv
+langchain-mistralai
